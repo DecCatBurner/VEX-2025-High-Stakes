@@ -6,8 +6,8 @@
 <h3> LemLib Public Repo: </h3>
 <p>https://github.com/LemLib/LemLib</p>
 <hb></hb>
-<h3>For any Inquiries on our robot/code, feel welcome to join our discord!</h3>
-<p>https://discord.gg/ynvkeHr9</p>
+<h3>For any Inquiries on our robot and/or code, feel welcome to join our discord!</h3>
+<p>[https://discord.gg/ynvkeHr9](https://discord.gg/jNbpCE3u6A)</p>
 
 
 
